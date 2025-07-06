@@ -13,9 +13,9 @@ This is a simple mobile-style login interface built with the **Kivy** framework 
 - Minimalistic design and clean UI
 
 ##  Screenshot
-*(Optional: Add a screenshot here if you'd like)*
 
-## 📁 Project Structure
+
+##  Project Structure
 
 /project-folder
 ├── main.py # Main app logic
